@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/06/17 13:30:44.000.577,=C:\Users\alexba\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2014/06/17 13:30:44.000.566,=C:\Users\alexba\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2014/06/20 10:11:11.000.659,=C:\Users\alexba\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2014/06/20 10:11:11.000.648,=C:\Users\alexba\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2014/09/10 09:31:54.000.840,=C:\Users\alexba\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2014/09/10 09:31:54.000.709,=C:\Users\alexba\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2014/10/21 17:20:15.405,=C:\Users\alexba\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2014/10/21 17:20:15.699,=C:\Users\alexba\Documents\Embarcadero\Studio\Projects\GridView.cpp</Transaction>
+    <Transaction>2014/10/21 17:20:16.856,=C:\Users\alexba\Documents\Embarcadero\Studio\Projects\DetailView.cpp</Transaction>
+    <Transaction>2014/10/21 17:21:01.715,C:\G_localview\pub_test01\appsource\MainGridView.fmx=C:\Users\alexba\Documents\Embarcadero\Studio\Projects\GridView.fmx</Transaction>
+    <Transaction>2014/10/21 17:21:01.715,C:\G_localview\pub_test01\appsource\MainGridView.h=C:\Users\alexba\Documents\Embarcadero\Studio\Projects\GridView.h</Transaction>
+    <Transaction>2014/10/21 17:21:01.715,C:\G_localview\pub_test01\appsource\MainGridView.cpp=C:\Users\alexba\Documents\Embarcadero\Studio\Projects\GridView.cpp</Transaction>
+    <Transaction>2014/10/21 17:21:09.812,C:\G_localview\pub_test01\appsource\DetailView.fmx=C:\Users\alexba\Documents\Embarcadero\Studio\Projects\DetailView.fmx</Transaction>
+    <Transaction>2014/10/21 17:21:09.812,C:\G_localview\pub_test01\appsource\DetailView.h=C:\Users\alexba\Documents\Embarcadero\Studio\Projects\DetailView.h</Transaction>
+    <Transaction>2014/10/21 17:21:09.812,C:\G_localview\pub_test01\appsource\DetailView.cpp=C:\Users\alexba\Documents\Embarcadero\Studio\Projects\DetailView.cpp</Transaction>
+    <Transaction>2014/10/21 17:21:25.634,C:\G_localview\pub_test01\appsource\W8AppExamplePCH1.h=C:\Users\alexba\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2014/10/21 17:21:35.132,C:\G_localview\pub_test01\appsource\W8AppExample.cbproj=C:\Users\alexba\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
